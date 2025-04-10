@@ -65,7 +65,7 @@ section{
 
  @media (max-width: 520px){
     section{
-        width: 90px;
+        width: 90%;
         padding: 30px;
     }
     header img{
