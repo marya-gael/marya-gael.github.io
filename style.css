@@ -73,14 +73,14 @@ section{
     }
     header h3{
         font-size: 1.3red;
-        color: red;
+        color: rgb(91, 30, 99);
     }
     main{
         gap: 15px;
     }
     main a{
         padding: 10px 0;
-        box-shadow: 5px 5px #772786;
+        box-shadow: 5px 5px #0c050e;
     }
 
  }
